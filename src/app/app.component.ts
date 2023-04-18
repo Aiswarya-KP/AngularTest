@@ -10,4 +10,5 @@ export class AppComponent {
   titlere = 'testing' ;
   number1 = 8;
   number2 = 5;
+  number3 = 67;
 }
